@@ -1,0 +1,1573 @@
+2014-03-03 03:20:34 Error: [MissingViewException] View file "/srv/www/cakephp/app/View/Surveys/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/srv/www/cakephp/app/View/Surveys/index.ctp',
+)
+Request URL: /surveys
+Stack Trace:
+#0 /srv/www/cakephp/lib/Cake/View/View.php(457): View->_getViewFileName(NULL)
+#1 /srv/www/cakephp/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#2 /srv/www/cakephp/lib/Cake/Routing/Dispatcher.php(192): Controller->render()
+#3 /srv/www/cakephp/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#4 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-03-03 03:22:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/draggable
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:29:18 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:29:22 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:29:24 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:29:51 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:33:00 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:33:38 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:34:23 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:34:46 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:37:03 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:38:04 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:38:55 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:45:59 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:46:12 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:46:26 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:46:28 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:50:33 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:50:40 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:50:52 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [/srv/www/cakephp/app/Controller/AnswersController.php, line 47]
+2014-03-03 03:50:52 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /answers/vote
+Stack Trace:
+#0 /srv/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/srv/www/cakeph...', 47)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/srv/www/cakeph...', 47, Array)
+#2 /srv/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/srv/www/cakeph...', 47, Array)
+#3 /srv/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-03 03:50:55 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:51:00 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [/srv/www/cakephp/app/Controller/AnswersController.php, line 47]
+2014-03-03 03:51:00 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /answers/vote
+Stack Trace:
+#0 /srv/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/srv/www/cakeph...', 47)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/srv/www/cakeph...', 47, Array)
+#2 /srv/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/srv/www/cakeph...', 47, Array)
+#3 /srv/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-03 03:51:03 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:51:10 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [/srv/www/cakephp/app/Controller/AnswersController.php, line 47]
+2014-03-03 03:51:10 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /answers/vote
+Stack Trace:
+#0 /srv/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/srv/www/cakeph...', 47)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/srv/www/cakeph...', 47, Array)
+#2 /srv/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/srv/www/cakeph...', 47, Array)
+#3 /srv/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-03 03:51:15 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:51:20 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:51:45 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:51:48 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [/srv/www/cakephp/app/Controller/AnswersController.php, line 48]
+2014-03-03 03:51:48 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /answers/vote
+Stack Trace:
+#0 /srv/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/srv/www/cakeph...', 48)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/srv/www/cakeph...', 48, Array)
+#2 /srv/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/srv/www/cakeph...', 48, Array)
+#3 /srv/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-03 03:52:13 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:52:16 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [/srv/www/cakephp/app/Controller/AnswersController.php, line 49]
+2014-03-03 03:52:16 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /answers/vote
+Stack Trace:
+#0 /srv/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/srv/www/cakeph...', 49)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/srv/www/cakeph...', 49, Array)
+#2 /srv/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/srv/www/cakeph...', 49, Array)
+#3 /srv/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-03 03:53:02 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:53:05 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [/srv/www/cakephp/app/Controller/AnswersController.php, line 49]
+2014-03-03 03:53:05 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /answers/vote
+Stack Trace:
+#0 /srv/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/srv/www/cakeph...', 49)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/srv/www/cakeph...', 49, Array)
+#2 /srv/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/srv/www/cakeph...', 49, Array)
+#3 /srv/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-03 03:56:02 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:56:04 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [/srv/www/cakephp/app/Controller/AnswersController.php, line 49]
+2014-03-03 03:56:04 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /answers/vote
+Stack Trace:
+#0 /srv/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/srv/www/cakeph...', 49)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/srv/www/cakeph...', 49, Array)
+#2 /srv/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/srv/www/cakeph...', 49, Array)
+#3 /srv/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-03 03:57:20 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 03:57:24 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [/srv/www/cakephp/app/Controller/AnswersController.php, line 49]
+2014-03-03 03:57:24 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /answers/vote
+Stack Trace:
+#0 /srv/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/srv/www/cakeph...', 49)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/srv/www/cakeph...', 49, Array)
+#2 /srv/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/srv/www/cakeph...', 49, Array)
+#3 /srv/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-03 04:00:15 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 04:00:18 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [/srv/www/cakephp/app/Controller/AnswersController.php, line 48]
+2014-03-03 04:00:18 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /answers/vote
+Stack Trace:
+#0 /srv/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/srv/www/cakeph...', 48)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/srv/www/cakeph...', 48, Array)
+#2 /srv/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/srv/www/cakeph...', 48, Array)
+#3 /srv/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-03 04:01:15 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 04:01:25 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [/srv/www/cakephp/app/Controller/AnswersController.php, line 50]
+2014-03-03 04:01:25 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /answers/vote
+Stack Trace:
+#0 /srv/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/srv/www/cakeph...', 50)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/srv/www/cakeph...', 50, Array)
+#2 /srv/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/srv/www/cakeph...', 50, Array)
+#3 /srv/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-03 04:04:23 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 04:05:57 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 11:06:47 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 11:09:26 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 11:39:55 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 11:40:32 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-03 11:45:15 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 /srv/www/cakephp/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-04 21:48:26 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1044] Access denied for user \'\'@\'localhost\' to database \'survey\'',
+  'enabled' => true,
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Datasource\DboSource.php(260): Mysql->connect()
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3476): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(1126): Model->setDataSource('default')
+#4 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#5 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(1355): Model->getDataSource()
+#6 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(1447): Model->schema()
+#7 C:\xampp\htdocs\xen\lib\Cake\Controller\Component\PaginatorComponent.php(397): Model->hasField('created_at')
+#8 C:\xampp\htdocs\xen\lib\Cake\Controller\Component\PaginatorComponent.php(142): PaginatorComponent->validateSort(Object(Survey), Array, Array)
+#9 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(51): PaginatorComponent->paginate('Survey')
+#10 [internal function]: SurveysController->index('index')
+#11 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#12 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#13 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#14 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2014-03-04 21:48:26 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-04 21:51:49 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Datasource\DboSource.php(260): Mysql->connect()
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3476): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(1126): Model->setDataSource('default')
+#4 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#5 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(1355): Model->getDataSource()
+#6 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(1447): Model->schema()
+#7 C:\xampp\htdocs\xen\lib\Cake\Controller\Component\PaginatorComponent.php(397): Model->hasField('created_at')
+#8 C:\xampp\htdocs\xen\lib\Cake\Controller\Component\PaginatorComponent.php(142): PaginatorComponent->validateSort(Object(Survey), Array, Array)
+#9 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(51): PaginatorComponent->paginate('Survey')
+#10 [internal function]: SurveysController->index('index')
+#11 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#12 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#13 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#14 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2014-03-04 22:20:20 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1049] Unknown database \'survey1\'',
+  'enabled' => true,
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Datasource\DboSource.php(260): Mysql->connect()
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3476): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(1126): Model->setDataSource('default')
+#4 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#5 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(1355): Model->getDataSource()
+#6 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(1447): Model->schema()
+#7 C:\xampp\htdocs\xen\lib\Cake\Controller\Component\PaginatorComponent.php(397): Model->hasField('created_at')
+#8 C:\xampp\htdocs\xen\lib\Cake\Controller\Component\PaginatorComponent.php(142): PaginatorComponent->validateSort(Object(Survey), Array, Array)
+#9 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(51): PaginatorComponent->paginate('Survey')
+#10 [internal function]: SurveysController->index('index')
+#11 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#12 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#13 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#14 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2014-03-04 22:54:45 Error: [MissingControllerException] Controller class CreateController could not be found.
+Exception Attributes: array (
+  'class' => 'CreateController',
+  'plugin' => NULL,
+)
+Request URL: /create
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-04 22:54:55 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/draggable
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-04 23:18:12 Error: [MissingModelException] question
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(50): PaginatorComponent->paginate('question')
+#1 [internal function]: SurveysController->index('index')
+#2 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#4 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-03-04 23:30:11 Error: [MissingModelException] question
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(50): PaginatorComponent->paginate('question')
+#1 [internal function]: SurveysController->index('index')
+#2 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#4 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-03-04 23:30:37 Error: [MissingModelException] question
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(49): PaginatorComponent->paginate('question')
+#1 [internal function]: SurveysController->index('index')
+#2 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#4 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-03-04 23:32:15 Error: [MissingModelException] question
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(49): PaginatorComponent->paginate('question')
+#1 [internal function]: SurveysController->index('index')
+#2 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#4 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-03-04 23:34:37 Error: [MissingModelException] Question
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(49): PaginatorComponent->paginate('Question')
+#1 [internal function]: SurveysController->index('index')
+#2 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#4 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-03-04 23:36:00 Error: [MissingModelException] Question
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(49): PaginatorComponent->paginate('Question')
+#1 [internal function]: SurveysController->index('index')
+#2 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#4 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-03-04 23:42:37 Error: [MissingModelException] Question
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(49): PaginatorComponent->paginate('Question')
+#1 [internal function]: SurveysController->index('index')
+#2 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#4 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-03-04 23:42:38 Error: [MissingModelException] Question
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(49): PaginatorComponent->paginate('Question')
+#1 [internal function]: SurveysController->index('index')
+#2 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#4 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-03-04 23:42:57 Error: [MissingModelException] Question
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(49): PaginatorComponent->paginate('Question')
+#1 [internal function]: SurveysController->index('index')
+#2 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#4 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-03-04 23:49:07 Error: [MissingTableException] Table questions for model Question was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'questions',
+  'class' => 'Question',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('questions')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Datasource\DboSource.php(1063): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Survey), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#4 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#5 [internal function]: SurveysController->index('index')
+#6 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-03-04 23:49:41 Error: [MissingTableException] Table questions for model Question was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'questions',
+  'class' => 'Question',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('questions')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Datasource\DboSource.php(1063): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Survey), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#4 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#5 [internal function]: SurveysController->index('index')
+#6 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-03-04 23:49:59 Error: [MissingTableException] Table questions for model Question was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'questions',
+  'class' => 'Question',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('questions')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Datasource\DboSource.php(1063): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Survey), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#4 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#5 [internal function]: SurveysController->index('index')
+#6 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-03-04 23:50:08 Error: [MissingTableException] Table questions for model Question was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'questions',
+  'class' => 'Question',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('questions')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Datasource\DboSource.php(1063): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Survey), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#4 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(48): Model->find('all')
+#5 [internal function]: SurveysController->index('index')
+#6 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-03-04 23:50:22 Error: [MissingTableException] Table questions for model Question was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'questions',
+  'class' => 'Question',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('questions')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Datasource\DboSource.php(1063): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Survey), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#4 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#5 [internal function]: SurveysController->index('index')
+#6 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-03-04 23:51:53 Error: [MissingTableException] Table questions for model Question was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'questions',
+  'class' => 'Question',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('questions')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Datasource\DboSource.php(1063): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Survey), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#4 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#5 [internal function]: SurveysController->index('index')
+#6 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-03-04 23:51:54 Error: [MissingTableException] Table questions for model Question was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'questions',
+  'class' => 'Question',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('questions')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Datasource\DboSource.php(1063): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Survey), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#4 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#5 [internal function]: SurveysController->index('index')
+#6 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-03-04 23:54:39 Error: [MissingTableException] Table results for model Result was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'results',
+  'class' => 'Result',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('results')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Datasource\DboSource.php(1063): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Survey), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#4 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#5 [internal function]: SurveysController->index('index')
+#6 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-03-04 23:54:41 Error: [MissingTableException] Table results for model Result was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'results',
+  'class' => 'Result',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('results')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Datasource\DboSource.php(1063): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Survey), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#4 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#5 [internal function]: SurveysController->index('index')
+#6 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-03-04 23:55:21 Error: [MissingTableException] Table results for model Result was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'results',
+  'class' => 'Result',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('results')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Datasource\DboSource.php(1063): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Survey), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#4 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#5 [internal function]: SurveysController->index('index')
+#6 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-03-04 23:55:22 Error: [MissingTableException] Table results for model Result was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'results',
+  'class' => 'Result',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('results')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Datasource\DboSource.php(1063): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Survey), Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#4 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#5 [internal function]: SurveysController->index('index')
+#6 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-03-04 23:57:15 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-04 23:57:17 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-04 23:57:19 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-04 23:57:20 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-04 23:58:06 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-04 23:58:07 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-04 23:58:23 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-04 23:59:26 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-04 23:59:27 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-05 00:00:07 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-05 00:00:08 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-05 00:00:09 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-05 00:00:34 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-05 00:00:35 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-05 00:00:43 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-05 00:00:43 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-05 00:00:44 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-05 00:00:44 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-05 00:01:10 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-05 00:01:10 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-05 00:01:11 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-05 00:01:21 Error: [MissingTableException] Table surveys for model Survey was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'surveys',
+  'class' => 'Survey',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(3498): Model->setSource('surveys')
+#1 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2902): Model->getDataSource()
+#2 C:\xampp\htdocs\xen\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\xen\app\Controller\SurveysController.php(47): Model->find('all')
+#4 [internal function]: SurveysController->index('index')
+#5 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(SurveysController), Array)
+#6 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-03-05 00:01:31 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\xampp\htdocs\xen\app\Controller\SurveysController.php, line 47]
+2014-03-05 00:01:31 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 47)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 47, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 47, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:02:11 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\xampp\htdocs\xen\app\Controller\SurveysController.php, line 39]
+2014-03-05 00:02:11 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:02:12 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\xampp\htdocs\xen\app\Controller\SurveysController.php, line 39]
+2014-03-05 00:02:12 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:04:21 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\xampp\htdocs\xen\app\Controller\SurveysController.php, line 39]
+2014-03-05 00:04:21 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:04:25 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\xampp\htdocs\xen\app\Controller\SurveysController.php, line 39]
+2014-03-05 00:04:25 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:05:10 Error: [MissingControllerException] Controller class QuestionController could not be found.
+Exception Attributes: array (
+  'class' => 'QuestionController',
+  'plugin' => NULL,
+)
+Request URL: /question
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-05 00:06:31 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\xampp\htdocs\xen\app\Controller\SurveysController.php, line 39]
+2014-03-05 00:06:31 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:08:58 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\xampp\htdocs\xen\app\Controller\SurveysController.php, line 39]
+2014-03-05 00:08:58 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:08:59 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\xampp\htdocs\xen\app\Controller\SurveysController.php, line 39]
+2014-03-05 00:08:59 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:09:00 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\xampp\htdocs\xen\app\Controller\SurveysController.php, line 39]
+2014-03-05 00:09:00 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:09:01 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\xampp\htdocs\xen\app\Controller\SurveysController.php, line 39]
+2014-03-05 00:09:01 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:09:02 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\xampp\htdocs\xen\app\Controller\SurveysController.php, line 39]
+2014-03-05 00:09:02 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:09:10 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\xampp\htdocs\xen\app\Controller\SurveysController.php, line 39]
+2014-03-05 00:09:10 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 39, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:09:43 Error: [MissingControllerException] Controller class SurveysController could not be found.
+Exception Attributes: array (
+  'class' => 'SurveysController',
+  'plugin' => NULL,
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-05 00:10:46 Error: [MissingViewException] View file "C:\xampp\htdocs\xen\app\View\Questions\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\xen\\app\\View\\Questions\\index.ctp',
+)
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\View\View.php(457): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(QuestionsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-03-05 00:24:23 Error: [MissingActionException] Action QuestionsController::vote() could not be found.
+Exception Attributes: array (
+  'controller' => 'QuestionsController',
+  'action' => 'vote',
+)
+Request URL: /questions/vote
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(QuestionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-03-05 00:28:01 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [C:\xampp\htdocs\xen\app\Controller\QuestionsController.php, line 37]
+2014-03-05 00:28:01 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /questions/send
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 37)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 37, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 37, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:28:32 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [C:\xampp\htdocs\xen\app\Controller\QuestionsController.php, line 37]
+2014-03-05 00:28:32 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /questions/send
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 37)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 37, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 37, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:28:37 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [C:\xampp\htdocs\xen\app\Controller\QuestionsController.php, line 37]
+2014-03-05 00:28:37 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /questions/send
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 37)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 37, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 37, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:28:53 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [C:\xampp\htdocs\xen\app\Controller\QuestionsController.php, line 37]
+2014-03-05 00:28:53 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /questions/send
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 37)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 37, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 37, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:30:02 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [C:\xampp\htdocs\xen\app\Controller\QuestionsController.php, line 38]
+2014-03-05 00:30:02 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /questions/send
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 38, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 38, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:30:08 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [C:\xampp\htdocs\xen\app\Controller\QuestionsController.php, line 38]
+2014-03-05 00:30:08 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /questions/send
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 38, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 38, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:31:47 Error: [MissingViewException] View file "C:\xampp\htdocs\xen\app\View\Questions\send.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\xen\\app\\View\\Questions\\send.ctp',
+)
+Request URL: /questions/send
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\View\View.php(457): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(QuestionsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-03-05 00:32:11 Error: [MissingViewException] View file "C:\xampp\htdocs\xen\app\View\Questions\send.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\xen\\app\\View\\Questions\\send.ctp',
+)
+Request URL: /questions/send
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\View\View.php(457): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(QuestionsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-03-05 00:33:18 Error: [MissingViewException] View file "C:\xampp\htdocs\xen\app\View\Results\send.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\xen\\app\\View\\Results\\send.ctp',
+)
+Request URL: /results/send
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\View\View.php(457): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(ResultsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-03-05 00:33:55 Error: [MissingActionException] Action ResultsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'ResultsController',
+  'action' => 'index',
+)
+Request URL: /results
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(ResultsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-03-05 00:34:12 Error: [MissingViewException] View file "C:\xampp\htdocs\xen\app\View\Results\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\xen\\app\\View\\Results\\index.ctp',
+)
+Request URL: /results
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\View\View.php(457): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(ResultsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-03-05 00:34:50 Error: [MissingViewException] View file "C:\xampp\htdocs\xen\app\View\Results\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\xen\\app\\View\\Results\\index.ctp',
+)
+Request URL: /results
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\View\View.php(457): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\xen\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\xen\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(ResultsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-03-05 00:40:51 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [C:\xampp\htdocs\xen\app\Controller\QuestionsController.php, line 20]
+2014-03-05 00:40:51 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /questions/send
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 20)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 20, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 20, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:43:08 Error: Fatal Error (1): Call to a member function save() on a non-object in [C:\xampp\htdocs\xen\app\Controller\QuestionsController.php, line 22]
+2014-03-05 00:43:08 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /questions/send
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 22, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 22, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:43:29 Error: Fatal Error (1): Call to a member function save() on a non-object in [C:\xampp\htdocs\xen\app\Controller\QuestionsController.php, line 22]
+2014-03-05 00:43:29 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /questions/send
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 22, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 22, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:43:42 Error: Fatal Error (1): Call to a member function save() on a non-object in [C:\xampp\htdocs\xen\app\Controller\QuestionsController.php, line 22]
+2014-03-05 00:43:42 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /questions/send
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 22, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 22, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 00:49:47 Error: Fatal Error (1): Call to a member function updateAll() on a non-object in [C:\xampp\htdocs\xen\app\Controller\QuestionsController.php, line 20]
+2014-03-05 00:49:47 Error: [FatalErrorException] Call to a member function updateAll() on a non-object
+Request URL: /questions/send
+Stack Trace:
+#0 C:\xampp\htdocs\xen\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 20)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 20, Array)
+#2 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 20, Array)
+#3 C:\xampp\htdocs\xen\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-05 01:08:27 Error: [MissingControllerException] Controller class ResultsController could not be found.
+Exception Attributes: array (
+  'class' => 'ResultsController',
+  'plugin' => NULL,
+)
+Request URL: /results
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-05 09:10:47 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\xen\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
